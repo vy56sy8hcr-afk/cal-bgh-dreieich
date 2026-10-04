@@ -1,0 +1,38 @@
+name: Bürgerhäuser Dreieich Kalender aktualisieren
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Abhängigkeiten installieren
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Kalender erzeugen
+        run: |
+          python generate.py
+
+      - name: Änderungen speichern
+        run: |
+          git config user.name "Kalender Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add buergerhaeuser-dreieich.ics
+          git diff --cached --quiet || git commit -m "Kalender aktualisieren"
+          git push
