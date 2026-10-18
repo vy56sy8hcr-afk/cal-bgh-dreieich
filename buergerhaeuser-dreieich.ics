@@ -6,20 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Bürgerhäuser Dreieich
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:1966b8131ddb0f0edafb4852@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
-DTSTART;TZID=Europe/Berlin:20261017T190000
-DTEND;TZID=Europe/Berlin:20261017T210000
-SUMMARY:Soul and Funk Night
-LOCATION:Bürgerhaus
-DESCRIPTION:mit SoularPlexus und Key to Kingdom Band\nEin Abend mit Funk\,
-  Soul und Jazz\n19:00 Uhr\, Bürgerhaus\nVeranstalter: SKG Dreieich
-URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/soul-a
- nd-funk-night
-END:VEVENT
-BEGIN:VEVENT
 UID:1f8f3f22feac5b8e96c1d222@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261020T193000
 DTEND;TZID=Europe/Berlin:20261020T213000
 SUMMARY:Abenteuer Japan & Korea
@@ -32,7 +20,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/abente
 END:VEVENT
 BEGIN:VEVENT
 UID:8fe027504d5860c8dfaae52d@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261022T200000
 DTEND;TZID=Europe/Berlin:20261022T220000
 SUMMARY:Kalter weißer Mann
@@ -45,7 +33,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/kalter
 END:VEVENT
 BEGIN:VEVENT
 UID:547f63f1dfca17467339f008@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261023T200000
 DTEND;TZID=Europe/Berlin:20261023T220000
 SUMMARY:Flucht ins Glück
@@ -58,7 +46,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/flucht
 END:VEVENT
 BEGIN:VEVENT
 UID:0b8921e0ee13aef3adfa76db@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261031T200000
 DTEND;TZID=Europe/Berlin:20261031T220000
 SUMMARY:The Mind-Reading Revolution
@@ -71,7 +59,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/the-mi
 END:VEVENT
 BEGIN:VEVENT
 UID:df4a83108e51d4754660d024@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261103T100000
 DTEND;TZID=Europe/Berlin:20261103T120000
 SUMMARY:Hands up!
@@ -83,7 +71,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/lejo-h
 END:VEVENT
 BEGIN:VEVENT
 UID:8e089b580c43a3befee7d77a@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261103T160000
 DTEND;TZID=Europe/Berlin:20261103T180000
 SUMMARY:Hands up!
@@ -95,7 +83,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/lejo-h
 END:VEVENT
 BEGIN:VEVENT
 UID:05dfde40f568de510a5ed33c@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261104T193000
 DTEND;TZID=Europe/Berlin:20261104T213000
 SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
@@ -108,7 +96,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/annes-
 END:VEVENT
 BEGIN:VEVENT
 UID:87a1ca384bd0a56fe24b8753@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261107T190000
 DTEND;TZID=Europe/Berlin:20261107T210000
 SUMMARY:3 Oak Comedy Night 2026
@@ -121,7 +109,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/3-oak-
 END:VEVENT
 BEGIN:VEVENT
 UID:d7678eeae3ece481e1f20130@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261108T190000
 DTEND;TZID=Europe/Berlin:20261108T210000
 SUMMARY:Salut Salon
@@ -134,7 +122,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/salut-
 END:VEVENT
 BEGIN:VEVENT
 UID:e09821bd1bb8d3821ff61eb1@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261110T200000
 DTEND;TZID=Europe/Berlin:20261110T220000
 SUMMARY:Horst Evers
@@ -146,7 +134,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/horst-
 END:VEVENT
 BEGIN:VEVENT
 UID:decab03763f8392a315e1472@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261112T200000
 DTEND;TZID=Europe/Berlin:20261112T220000
 SUMMARY:Henni Nachtsheim und Band
@@ -159,7 +147,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/henni-
 END:VEVENT
 BEGIN:VEVENT
 UID:344fc3fd295bc8ac311a68d4@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261118T200000
 DTEND;TZID=Europe/Berlin:20261118T220000
 SUMMARY:HISS
@@ -171,7 +159,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/hiss-2
 END:VEVENT
 BEGIN:VEVENT
 UID:a96e77fa46632e7783c3dd56@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261122T150000
 DTEND;TZID=Europe/Berlin:20261122T170000
 SUMMARY:Hooked on a book
@@ -184,7 +172,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/hooked
 END:VEVENT
 BEGIN:VEVENT
 UID:624e9289844c395ca16dcdf3@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261126T200000
 DTEND;TZID=Europe/Berlin:20261126T220000
 SUMMARY:The Story of Rock
@@ -196,7 +184,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/the-st
 END:VEVENT
 BEGIN:VEVENT
 UID:535bf94e22caad8c84d78392@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261127T200000
 DTEND;TZID=Europe/Berlin:20261127T220000
 SUMMARY:Tina Teubner
@@ -209,7 +197,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/tina-t
 END:VEVENT
 BEGIN:VEVENT
 UID:a1550979a21a72507baacfc9@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261201T193000
 DTEND;TZID=Europe/Berlin:20261201T213000
 SUMMARY:Südafrika
@@ -222,7 +210,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/suedaf
 END:VEVENT
 BEGIN:VEVENT
 UID:806be98ae77593ad2adb71b3@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261203T200000
 DTEND;TZID=Europe/Berlin:20261203T220000
 SUMMARY:Eine Weihnachtsgeschichte. Ein Bühnenmärchen mit Musik nach Char
@@ -236,7 +224,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/eine-w
 END:VEVENT
 BEGIN:VEVENT
 UID:7903cf537f46110e8996f66a@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261207T160000
 DTEND;TZID=Europe/Berlin:20261207T180000
 SUMMARY:Schlafe! Dornröschen im Bett zu spielen
@@ -248,7 +236,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/dornro
 END:VEVENT
 BEGIN:VEVENT
 UID:cbd44422ea2f4a597dc0c090@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261208T090000
 DTEND;TZID=Europe/Berlin:20261208T110000
 SUMMARY:Schlafe! Dornröschen im Bett zu spielen
@@ -260,7 +248,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/dornro
 END:VEVENT
 BEGIN:VEVENT
 UID:ddc079db6ccd9af329ab50f0@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261208T110000
 DTEND;TZID=Europe/Berlin:20261208T130000
 SUMMARY:Schlafe! Dornröschen im Bett zu spielen
@@ -272,7 +260,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/dornro
 END:VEVENT
 BEGIN:VEVENT
 UID:449e1ce069fe97b1460b1924@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261209T100000
 DTEND;TZID=Europe/Berlin:20261209T120000
 SUMMARY:Die Zauberflöte - Bravo\, bravo Papageno
@@ -284,7 +272,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/die-za
 END:VEVENT
 BEGIN:VEVENT
 UID:365d4ae5cb4b44a64a3f3c47@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261210T200000
 DTEND;TZID=Europe/Berlin:20261210T220000
 SUMMARY:Mathias Richling
@@ -296,7 +284,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/mathia
 END:VEVENT
 BEGIN:VEVENT
 UID:20f81a8de25486ef80fe6e96@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261217T150000
 DTEND;TZID=Europe/Berlin:20261217T170000
 SUMMARY:Die Mainzer Hofsänger
@@ -309,7 +297,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/senior
 END:VEVENT
 BEGIN:VEVENT
 UID:efc04ff41c9f804d1f3d7b19@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261218T200000
 DTEND;TZID=Europe/Berlin:20261218T220000
 SUMMARY:Ass-Dur
@@ -322,7 +310,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/ass-du
 END:VEVENT
 BEGIN:VEVENT
 UID:6af786676858fb43fc76079b@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20261231T203000
 DTEND;TZID=Europe/Berlin:20261231T223000
 SUMMARY:▼⭐️5o Silvestersause
@@ -334,7 +322,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/silves
 END:VEVENT
 BEGIN:VEVENT
 UID:0384b323267fbb8d839e6cbf@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270113T200000
 DTEND;TZID=Europe/Berlin:20270113T220000
 SUMMARY:Der Wal
@@ -346,7 +334,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/der-wa
 END:VEVENT
 BEGIN:VEVENT
 UID:25a18de4dad878b31530757c@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270114T200000
 DTEND;TZID=Europe/Berlin:20270114T220000
 SUMMARY:Uli Boettcher
@@ -359,7 +347,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/uli-bo
 END:VEVENT
 BEGIN:VEVENT
 UID:6cdd6909bf19c2312fc87e7b@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270119T200000
 DTEND;TZID=Europe/Berlin:20270119T220000
 SUMMARY:Elina Duni & Rob Luft
@@ -372,7 +360,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/elina-
 END:VEVENT
 BEGIN:VEVENT
 UID:54322a9c42c1e7b66540af86@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270127T193000
 DTEND;TZID=Europe/Berlin:20270127T213000
 SUMMARY:Jo van Nelsen – Grammophonlesung
@@ -386,7 +374,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/jo-van
 END:VEVENT
 BEGIN:VEVENT
 UID:d10781e56adc593eec454915@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270212T200000
 DTEND;TZID=Europe/Berlin:20270212T220000
 SUMMARY:Textbomben
@@ -399,7 +387,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/textbo
 END:VEVENT
 BEGIN:VEVENT
 UID:2c5b254ad7330b84c602d65f@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270216T200000
 DTEND;TZID=Europe/Berlin:20270216T220000
 SUMMARY:Zum Sterben schön
@@ -411,7 +399,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/zum-st
 END:VEVENT
 BEGIN:VEVENT
 UID:3fd4d791f7ab23be10314d8a@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270217T160000
 DTEND;TZID=Europe/Berlin:20270217T180000
 SUMMARY:Bei Vollmond spricht man nicht
@@ -423,7 +411,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/bei-vo
 END:VEVENT
 BEGIN:VEVENT
 UID:45537fea70cdfba5d3a6b7c3@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270218T100000
 DTEND;TZID=Europe/Berlin:20270218T120000
 SUMMARY:Bei Vollmond spricht man nicht
@@ -435,7 +423,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/bei-vo
 END:VEVENT
 BEGIN:VEVENT
 UID:5c154e08033f80c53c3a74fa@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270219T200000
 DTEND;TZID=Europe/Berlin:20270219T220000
 SUMMARY:Andy Ost
@@ -447,7 +435,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/andy-o
 END:VEVENT
 BEGIN:VEVENT
 UID:8e0f4ef98677001a0f102eda@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270223T200000
 DTEND;TZID=Europe/Berlin:20270223T220000
 SUMMARY:Bodo Wartke
@@ -459,7 +447,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/bodo-w
 END:VEVENT
 BEGIN:VEVENT
 UID:0d8be972471c5417dac3bd13@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270303T100000
 DTEND;TZID=Europe/Berlin:20270303T120000
 SUMMARY:▼ 🎭Starke Stücke: The Baby Tyler Show
@@ -471,7 +459,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/the-ba
 END:VEVENT
 BEGIN:VEVENT
 UID:818cf0a05167237fd3397d8f@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270303T160000
 DTEND;TZID=Europe/Berlin:20270303T180000
 SUMMARY:▼ 🎭Starke Stücke: The Baby Tyler Show
@@ -483,7 +471,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/the-ba
 END:VEVENT
 BEGIN:VEVENT
 UID:93133ce745901408b4396221@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270304T100000
 DTEND;TZID=Europe/Berlin:20270304T120000
 SUMMARY:▼ 🎭Starke Stücke: LiCHT
@@ -495,7 +483,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/licht-
 END:VEVENT
 BEGIN:VEVENT
 UID:24f0fc1c6477da1702d00c00@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270304T160000
 DTEND;TZID=Europe/Berlin:20270304T180000
 SUMMARY:▼ 🎭Starke Stücke: LiCHT
@@ -507,7 +495,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/licht-
 END:VEVENT
 BEGIN:VEVENT
 UID:fd141857785b2574e0af56b8@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270306T200000
 DTEND;TZID=Europe/Berlin:20270306T220000
 SUMMARY:Florian Schroeder
@@ -519,7 +507,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/floria
 END:VEVENT
 BEGIN:VEVENT
 UID:0c501fb33b831e9596252be9@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270310T193000
 DTEND;TZID=Europe/Berlin:20270310T213000
 SUMMARY:Chile - Von der Atacamawüste in die Antarktis
@@ -531,7 +519,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/chile-
 END:VEVENT
 BEGIN:VEVENT
 UID:3708163bbfa410f2ed5b35bf@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270311T193000
 DTEND;TZID=Europe/Berlin:20270311T213000
 SUMMARY:Uli Aechtner
@@ -545,7 +533,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/uli-ae
 END:VEVENT
 BEGIN:VEVENT
 UID:ea83ecab5903290f84f499e5@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270316T200000
 DTEND;TZID=Europe/Berlin:20270316T220000
 SUMMARY:Irish Spring
@@ -557,7 +545,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/irish-
 END:VEVENT
 BEGIN:VEVENT
 UID:b0dc1f9eb58a0a32c93424b7@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270318T200000
 DTEND;TZID=Europe/Berlin:20270318T220000
 SUMMARY:Miss Allie
@@ -569,7 +557,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/miss-a
 END:VEVENT
 BEGIN:VEVENT
 UID:0d79ca3f08d6d69d49fbbfd9@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270324T200000
 DTEND;TZID=Europe/Berlin:20270324T220000
 SUMMARY:Archie Clapp
@@ -581,7 +569,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/archie
 END:VEVENT
 BEGIN:VEVENT
 UID:e8877932b3edb9d0a35f4b9d@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270406T200000
 DTEND;TZID=Europe/Berlin:20270406T220000
 SUMMARY:Adlerherzen
@@ -595,7 +583,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/adlerh
 END:VEVENT
 BEGIN:VEVENT
 UID:4577c6b063cbb8088efe5ba5@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270407T200000
 DTEND;TZID=Europe/Berlin:20270407T220000
 SUMMARY:Adlerherzen
@@ -609,7 +597,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/adlerh
 END:VEVENT
 BEGIN:VEVENT
 UID:e95b2feb61cbf75fe1369d7d@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270409T200000
 DTEND;TZID=Europe/Berlin:20270409T220000
 SUMMARY:Lars Reichow
@@ -621,7 +609,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/lars-r
 END:VEVENT
 BEGIN:VEVENT
 UID:75565ec60043f51ab31b3e76@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270410T190000
 DTEND;TZID=Europe/Berlin:20270410T210000
 SUMMARY:Die drei ??? - Signale aus dem Jenseits
@@ -633,7 +621,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/die-dr
 END:VEVENT
 BEGIN:VEVENT
 UID:a3a9cf03c0f644154e5f7ece@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270413T160000
 DTEND;TZID=Europe/Berlin:20270413T180000
 SUMMARY:Der Grüffelo
@@ -645,7 +633,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/der-gr
 END:VEVENT
 BEGIN:VEVENT
 UID:8bdecfafd11c4b99797a67cb@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270414T090000
 DTEND;TZID=Europe/Berlin:20270414T110000
 SUMMARY:Der Grüffelo
@@ -657,7 +645,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/der-gr
 END:VEVENT
 BEGIN:VEVENT
 UID:d3ac18ebc213b86e81cb5b8d@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270414T110000
 DTEND;TZID=Europe/Berlin:20270414T130000
 SUMMARY:Der Grüffelo
@@ -669,7 +657,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/der-gr
 END:VEVENT
 BEGIN:VEVENT
 UID:1a7baac7d5ef004cc98d15e2@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270416T200000
 DTEND;TZID=Europe/Berlin:20270416T220000
 SUMMARY:Jess Jochimsen
@@ -681,7 +669,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/jess-j
 END:VEVENT
 BEGIN:VEVENT
 UID:2e9be6c23e915972970c164a@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270417T200000
 DTEND;TZID=Europe/Berlin:20270417T220000
 SUMMARY:Akkordeonale
@@ -694,7 +682,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/akkord
 END:VEVENT
 BEGIN:VEVENT
 UID:7fab822dba2e31e4eb2df6a6@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270420T193000
 DTEND;TZID=Europe/Berlin:20270420T213000
 SUMMARY:Kanada & Alaska
@@ -708,7 +696,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/kanada
 END:VEVENT
 BEGIN:VEVENT
 UID:c421f5be780317891bb55910@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270423T193000
 DTEND;TZID=Europe/Berlin:20270423T213000
 SUMMARY:Wladimir Kaminer
@@ -720,7 +708,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/wladim
 END:VEVENT
 BEGIN:VEVENT
 UID:80d90cb48c8ca29cc8beaa9f@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270424T200000
 DTEND;TZID=Europe/Berlin:20270424T220000
 SUMMARY:Cláudia Sophia
@@ -733,7 +721,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/claudi
 END:VEVENT
 BEGIN:VEVENT
 UID:a048a2d78309d20f78257a8d@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270505T200000
 DTEND;TZID=Europe/Berlin:20270505T220000
 SUMMARY:Teresa Reichl
@@ -745,7 +733,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/teresa
 END:VEVENT
 BEGIN:VEVENT
 UID:80817bca3a135cccd44ecab3@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270511T200000
 DTEND;TZID=Europe/Berlin:20270511T220000
 SUMMARY:Kardinalfehler
@@ -757,7 +745,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/kardin
 END:VEVENT
 BEGIN:VEVENT
 UID:0639924c630e37dbdd1f04de@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270513T200000
 DTEND;TZID=Europe/Berlin:20270513T220000
 SUMMARY:Johnny & The Yooahoos
@@ -769,7 +757,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/johnny
 END:VEVENT
 BEGIN:VEVENT
 UID:6c30b46f6befc6a41b1b9601@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270520T200000
 DTEND;TZID=Europe/Berlin:20270520T220000
 SUMMARY:Work? Life? What?
@@ -781,7 +769,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/work-l
 END:VEVENT
 BEGIN:VEVENT
 UID:37ed8ff2f3cf85e64c026c41@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270601T193000
 DTEND;TZID=Europe/Berlin:20270601T213000
 SUMMARY:Eric Pfeil
@@ -794,7 +782,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/eric-p
 END:VEVENT
 BEGIN:VEVENT
 UID:cf1f31fa39b8a78569d7c5c1@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270729T200000
 DTEND;TZID=Europe/Berlin:20270729T220000
 SUMMARY:Frankenstein
@@ -807,7 +795,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/franke
 END:VEVENT
 BEGIN:VEVENT
 UID:8ddd3b83c651b2612a6c556a@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270903T180000
 DTEND;TZID=Europe/Berlin:20270903T200000
 SUMMARY:▼⭐️5o Elementaro
@@ -820,7 +808,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/elemen
 END:VEVENT
 BEGIN:VEVENT
 UID:5e60de7a9d960558a1a44793@buergerhaeuser-dreieich
-DTSTAMP:20261017T042552Z
+DTSTAMP:20261018T042622Z
 DTSTART;TZID=Europe/Berlin:20270904T180000
 DTEND;TZID=Europe/Berlin:20270904T200000
 SUMMARY:▼⭐️5o Elementaro
