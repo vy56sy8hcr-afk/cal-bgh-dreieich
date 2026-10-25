@@ -122,6 +122,22 @@ def parse_events(html=None):
 
         # Untertitel und Beschreibung: Zeilen zwischen Titel und "Infos & Tickets"
         zeilen = text.split("\n")
+
+        # Kategorie: erste Zeile zwischen Datumszeile und Titel (z. B. "Kabarett & Comedy")
+        kategorie = ""
+        if title in zeilen:
+            titel_pos = zeilen.index(title)
+            for i, zeile in enumerate(zeilen[:titel_pos]):
+                datum_treffer = re.search(DATUM, zeile)
+                if not datum_treffer:
+                    continue
+                rest = zeile[datum_treffer.end():].strip()
+                if rest:
+                    kategorie = rest
+                else:
+                    kategorie = next((z.strip() for z in zeilen[i + 1:titel_pos] if z.strip()), "")
+                break
+
         extra = []
         if title in zeilen:
             for zeile in zeilen[zeilen.index(title) + 1:]:
@@ -145,6 +161,7 @@ def parse_events(html=None):
             "organizer": organizer,
             "url": event_url,
             "extra": extra,
+            "kategorie": kategorie,
             "starke_stuecke": starke_stuecke,
         })
 
@@ -163,7 +180,10 @@ def baue_titel(event, stichworte):
 
 
 def baue_notiz(event):
-    zeilen = [korrigiere(z) for z in event["extra"]]
+    zeilen = []
+    if event.get("kategorie"):
+        zeilen.append(f"[{korrigiere(event['kategorie'])}]")
+    zeilen += [korrigiere(z) for z in event["extra"]]
     ort = event["location"]
     uhr = f"{event['start']:%H:%M} Uhr"
     zeilen.append(f"{uhr}, {ort}" if ort else uhr)
