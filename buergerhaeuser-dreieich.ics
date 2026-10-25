@@ -7,544 +7,555 @@ X-WR-CALNAME:Bürgerhäuser Dreieich
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 UID:0b8921e0ee13aef3adfa76db@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261031T200000
 DTEND;TZID=Europe/Berlin:20261031T220000
 SUMMARY:The Mind-Reading Revolution
 LOCATION:Bürgerhaus
-DESCRIPTION:Anca & Lucca\nVergessen Sie alles\, was Sie über Gedankenlese
- n und Mentalmagie wissen ...\n20:00 Uhr\, Bürgerhaus\nVeranstalter: Magi
- scher Zirkel Frankfurt am Main e.V.
+DESCRIPTION:[Sonstige]\nAnca & Lucca\nVergessen Sie alles\, was Sie über 
+ Gedankenlesen und Mentalmagie wissen ...\n20:00 Uhr\, Bürgerhaus\nVerans
+ talter: Magischer Zirkel Frankfurt am Main e.V.
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/the-mi
  nd-reading-revolution
 END:VEVENT
 BEGIN:VEVENT
 UID:df4a83108e51d4754660d024@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261103T100000
 DTEND;TZID=Europe/Berlin:20261103T120000
 SUMMARY:Hands up!
 LOCATION:Bürgerhaus
-DESCRIPTION:Lejo (NL)\nEine Familienshow mit Musik\, Humor und Gefühl –
-  und ohne Worte.\n10:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Schulen und Kitas]\nLejo (NL)\nEine Familienshow mit Musik\, 
+ Humor und Gefühl – und ohne Worte.\n10:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/lejo-h
  andsup-kitaschule
 END:VEVENT
 BEGIN:VEVENT
 UID:8e089b580c43a3befee7d77a@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261103T160000
 DTEND;TZID=Europe/Berlin:20261103T180000
 SUMMARY:Hands up!
 LOCATION:Bürgerhaus
-DESCRIPTION:Lejo (NL)\nEine Familienshow mit Musik\, Humor und Gefühl –
-  und ohne Worte.\n16:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Theater für Kinder]\nLejo (NL)\nEine Familienshow mit Musik\
+ , Humor und Gefühl – und ohne Worte.\n16:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/lejo-h
  andsup-16-uhr
 END:VEVENT
 BEGIN:VEVENT
 UID:4f0a8112a7f4f8936fefba20@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261103T190000
 DTEND;TZID=Europe/Berlin:20261103T210000
 SUMMARY:Junge Talente\, frische Klänge und musikalische Lebensfreude
 LOCATION:Haus Dietrichsroth\, Dreieichenhain
-DESCRIPTION:Benefizkonzert im Haus Dietrichsroth\nDer Förderverein Dreiei
- chMusik e. V. und die Bürgerhäuser Dreieich laden zu einem traditionell
- en Benefizkonzert unter der Leitung von Georgi Mundrov in das Haus Dietri
- chsroth ein.\n19:00 Uhr\, Haus Dietrichsroth\, Dreieichenhain
+DESCRIPTION:[Dreieicher Musiktage]\nBenefizkonzert im Haus Dietrichsroth\n
+ Der Förderverein DreieichMusik e. V. und die Bürgerhäuser Dreieich lad
+ en zu einem traditionellen Benefizkonzert unter der Leitung von Georgi Mu
+ ndrov in das Haus Dietrichsroth ein.\n19:00 Uhr\, Haus Dietrichsroth\, Dr
+ eieichenhain
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/benefi
  zkonzert26-haus-dietrichsroth
 END:VEVENT
 BEGIN:VEVENT
 UID:05dfde40f568de510a5ed33c@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261104T193000
 DTEND;TZID=Europe/Berlin:20261104T213000
 SUMMARY:Annes Kampf – Anne Frank vs. Adolf Hitler
 LOCATION:Bürgerhaus
-DESCRIPTION:Sam Entertainment\nEine scharf geschnittene Collage von „Ann
- e Franks Tagebuch“ und Hitlers „Mein Kampf“\n19:30 Uhr\, Bürgerhau
- s
+DESCRIPTION:[Schauspiel / Theater / Musiktheater]\nSam Entertainment\nEine
+  scharf geschnittene Collage von „Anne Franks Tagebuch“ und Hitlers 
+ „Mein Kampf“\n19:30 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/annes-
  kampf
 END:VEVENT
 BEGIN:VEVENT
 UID:87a1ca384bd0a56fe24b8753@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261107T190000
 DTEND;TZID=Europe/Berlin:20261107T210000
 SUMMARY:3 Oak Comedy Night 2026
 LOCATION:Jugendzentrum Sprendlingen
-DESCRIPTION:Zum dritten Mal verwandelt sich das JUZ Sprendlingen in eine B
- ühne für Stand-up-Comedy vom Feinsten\n19:00 Uhr\, Jugendzentrum Sprend
- lingen\nVeranstalter: Kinder- und Jugendförderung Stadt Dreieich
+DESCRIPTION:[Kabarett & Comedy]\nZum dritten Mal verwandelt sich das JUZ S
+ prendlingen in eine Bühne für Stand-up-Comedy vom Feinsten\n19:00 Uhr\,
+  Jugendzentrum Sprendlingen\nVeranstalter: Kinder- und Jugendförderung S
+ tadt Dreieich
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/3-oak-
  comedy-night-stand-up-comedy-in-dreieich-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:d7678eeae3ece481e1f20130@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261108T190000
 DTEND;TZID=Europe/Berlin:20261108T210000
 SUMMARY:Salut Salon
 LOCATION:Bürgerhaus
-DESCRIPTION:heimat\nZwei Geigen\, ein Cello\, ein Klavier auf irrwitzigen 
- Parforceritten zwischen Vivaldi und Vokalakrobatik\, Tango und Tatort\, R
- ap und Rachmaninov\n19:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Konzerte]\nheimat\nZwei Geigen\, ein Cello\, ein Klavier auf 
+ irrwitzigen Parforceritten zwischen Vivaldi und Vokalakrobatik\, Tango un
+ d Tatort\, Rap und Rachmaninov\n19:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/salut-
  salon-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:e09821bd1bb8d3821ff61eb1@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261110T200000
 DTEND;TZID=Europe/Berlin:20261110T220000
 SUMMARY:Horst Evers
 LOCATION:Bürgerhaus
-DESCRIPTION:So gesehen natürlich lustig\nEin Abend voller neuer Geschicht
- en – mal erzählt und mal vorgelesen\n20:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Kabarett & Comedy]\nSo gesehen natürlich lustig\nEin Abend v
+ oller neuer Geschichten – mal erzählt und mal vorgelesen\n20:00 Uhr\, 
+ Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/horst-
  evers-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:decab03763f8392a315e1472@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261112T200000
 DTEND;TZID=Europe/Berlin:20261112T220000
 SUMMARY:Henni Nachtsheim und Band
 LOCATION:Bürgerhaus
-DESCRIPTION:Es wird Zeiten geben - Die Jubiläumstour\nEin musikalischer A
- bend mit Henni Nachtsheim\, Ali Neander und der "Adlerherzen"-Band\n20:00
-  Uhr\, Bürgerhaus
+DESCRIPTION:[Konzerte]\nEs wird Zeiten geben - Die Jubiläumstour\nEin mus
+ ikalischer Abend mit Henni Nachtsheim\, Ali Neander und der "Adlerherzen"
+ -Band\n20:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/henni-
  nachtsheim-und-band-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:344fc3fd295bc8ac311a68d4@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261118T200000
 DTEND;TZID=Europe/Berlin:20261118T220000
 SUMMARY:HISS
 LOCATION:Bürgerhaus
-DESCRIPTION:Für eine Handvoll Cent\nDie Kapelle HISS präsentiert Lieder 
- voller Kraft\, Witz und Lebenserfahrung\n20:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Andere Töne]\nFür eine Handvoll Cent\nDie Kapelle HISS prä
+ sentiert Lieder voller Kraft\, Witz und Lebenserfahrung\n20:00 Uhr\, Bür
+ gerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/hiss-2
  026
 END:VEVENT
 BEGIN:VEVENT
 UID:a96e77fa46632e7783c3dd56@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261122T150000
 DTEND;TZID=Europe/Berlin:20261122T170000
 SUMMARY:Hooked on a book
 LOCATION:Galerieraum der Stadtbücherei Dreieich-Sprendlingen
-DESCRIPTION:Eine Expedition zum Mitmachen\nSeite für Seite verhaken sich 
- zwei Menschen und werden so zu den Hauptpersonen eines Buchs\n15:00 Uhr\,
-  Galerieraum der Stadtbücherei Dreieich-Sprendlingen
+DESCRIPTION:[Sonstige]\nEine Expedition zum Mitmachen\nSeite für Seite ve
+ rhaken sich zwei Menschen und werden so zu den Hauptpersonen eines Buchs\
+ n15:00 Uhr\, Galerieraum der Stadtbücherei Dreieich-Sprendlingen
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/hooked
  -on-a-book
 END:VEVENT
 BEGIN:VEVENT
 UID:624e9289844c395ca16dcdf3@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261126T200000
 DTEND;TZID=Europe/Berlin:20261126T220000
 SUMMARY:The Story of Rock
 LOCATION:Bürgerhaus
-DESCRIPTION:performed by Rock United\nEine musikalische Zeitreise durch zw
- ei Jahrzehnte\n20:00 Uhr\, Bürgerhaus\nVeranstalter: Rock United
+DESCRIPTION:[Konzerte]\nperformed by Rock United\nEine musikalische Zeitre
+ ise durch zwei Jahrzehnte\n20:00 Uhr\, Bürgerhaus\nVeranstalter: Rock Un
+ ited
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/the-st
  ory-of-rock
 END:VEVENT
 BEGIN:VEVENT
 UID:535bf94e22caad8c84d78392@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261127T200000
 DTEND;TZID=Europe/Berlin:20261127T220000
 SUMMARY:Tina Teubner
 LOCATION:Bürgerhaus
-DESCRIPTION:Protokolle der Sehnsucht\nZusammen mit Ben Süverkrüp ist sie
-  ein ganzes Orchester: mit Geige\, Säge\, Gitarren\, Orgeln\, Klavier\n2
- 0:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Kabarett & Comedy]\nProtokolle der Sehnsucht\nZusammen mit Be
+ n Süverkrüp ist sie ein ganzes Orchester: mit Geige\, Säge\, Gitarren\
+ , Orgeln\, Klavier\n20:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/tina-t
  eubner-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:a1550979a21a72507baacfc9@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261201T193000
 DTEND;TZID=Europe/Berlin:20261201T213000
 SUMMARY:Südafrika
 LOCATION:Bürgerhaus
-DESCRIPTION:Reiner Harscher\nEine Leinwand-Reise mit Tierbeobachtungen\, g
- roßartigen Naturlandschaften und berührenden Begegnungen mit den Mensch
- en\n19:30 Uhr\, Bürgerhaus
+DESCRIPTION:[Multivisionen und Live-Reportagen]\nReiner Harscher\nEine Lei
+ nwand-Reise mit Tierbeobachtungen\, großartigen Naturlandschaften und be
+ rührenden Begegnungen mit den Menschen\n19:30 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/suedaf
  rika
 END:VEVENT
 BEGIN:VEVENT
 UID:806be98ae77593ad2adb71b3@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261203T200000
 DTEND;TZID=Europe/Berlin:20261203T220000
 SUMMARY:Eine Weihnachtsgeschichte. Ein Bühnenmärchen mit Musik nach Char
  les Dickens
 LOCATION:Bürgerhaus
-DESCRIPTION:mit Samuel Finzi\, Herbert Knaup und dem sagas-streichquintett
- \nEin Stück über Nächstenliebe und den empathischen Umgang miteinander
- \n20:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Schauspiel / Theater / Musiktheater]\nmit Samuel Finzi\, Herb
+ ert Knaup und dem sagas-streichquintett\nEin Stück über Nächstenliebe 
+ und den empathischen Umgang miteinander\n20:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/eine-w
  eihnachtsgeschichte
 END:VEVENT
 BEGIN:VEVENT
 UID:7903cf537f46110e8996f66a@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261207T160000
 DTEND;TZID=Europe/Berlin:20261207T180000
 SUMMARY:Schlafe! Dornröschen im Bett zu spielen
 LOCATION:Bürgerhaus
-DESCRIPTION:Martin Vogel\nDa gab es doch diese Prinzessin\, die hundert Ja
- hre geschlafen hat ...\n16:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Theater für Kinder]\nMartin Vogel\nDa gab es doch diese Prin
+ zessin\, die hundert Jahre geschlafen hat ...\n16:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/dornro
  eschen
 END:VEVENT
 BEGIN:VEVENT
 UID:cbd44422ea2f4a597dc0c090@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261208T090000
 DTEND;TZID=Europe/Berlin:20261208T110000
 SUMMARY:Schlafe! Dornröschen im Bett zu spielen
 LOCATION:Bürgerhaus
-DESCRIPTION:Martin Vogel\nDa gab es doch diese Prinzessin\, die hundert Ja
- hre geschlafen hat ...\n09:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Schulen und Kitas]\nMartin Vogel\nDa gab es doch diese Prinze
+ ssin\, die hundert Jahre geschlafen hat ...\n09:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/dornro
  eschen-kitaschule
 END:VEVENT
 BEGIN:VEVENT
 UID:ddc079db6ccd9af329ab50f0@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261208T110000
 DTEND;TZID=Europe/Berlin:20261208T130000
 SUMMARY:Schlafe! Dornröschen im Bett zu spielen
 LOCATION:Bürgerhaus
-DESCRIPTION:Martin Vogel\nDa gab es doch diese Prinzessin\, die hundert Ja
- hre geschlafen hat ...\n11:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Schulen und Kitas]\nMartin Vogel\nDa gab es doch diese Prinze
+ ssin\, die hundert Jahre geschlafen hat ...\n11:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/dornro
  eschen-kitaschule-11uhr
 END:VEVENT
 BEGIN:VEVENT
 UID:449e1ce069fe97b1460b1924@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261209T100000
 DTEND;TZID=Europe/Berlin:20261209T120000
 SUMMARY:Die Zauberflöte - Bravo\, bravo Papageno
 LOCATION:Bürgerhaus
-DESCRIPTION:Kleine Oper Bad Homburg\nEin Ausflug in die klassische Musik f
- ür junges Publikum\n10:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Schulen und Kitas]\nKleine Oper Bad Homburg\nEin Ausflug in d
+ ie klassische Musik für junges Publikum\n10:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/die-za
  uberfloete
 END:VEVENT
 BEGIN:VEVENT
 UID:365d4ae5cb4b44a64a3f3c47@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261210T200000
 DTEND;TZID=Europe/Berlin:20261210T220000
 SUMMARY:Mathias Richling
 LOCATION:Bürgerhaus
-DESCRIPTION:KI – Keine Identität\nEine kabarettistische Bestandsaufnahm
- e unserer digitalisierten Gegenwart\n20:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Kabarett & Comedy]\nKI – Keine Identität\nEine kabarettist
+ ische Bestandsaufnahme unserer digitalisierten Gegenwart\n20:00 Uhr\, Bü
+ rgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/mathia
  s-richling-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:20f81a8de25486ef80fe6e96@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261217T150000
 DTEND;TZID=Europe/Berlin:20261217T170000
 SUMMARY:Die Mainzer Hofsänger
 LOCATION:Bürgerhaus
-DESCRIPTION:Seniorennachmittag\nUnter dem Motto „Stille Nacht“ präsen
- tieren die Sänger dem Publikum ein vorweihnachtliches\, musikalisches Ge
- schenk\n15:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Konzerte]\nSeniorennachmittag\nUnter dem Motto „Stille Nach
+ t“ präsentieren die Sänger dem Publikum ein vorweihnachtliches\, musi
+ kalisches Geschenk\n15:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/senior
  ennachmittag-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:efc04ff41c9f804d1f3d7b19@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261218T200000
 DTEND;TZID=Europe/Berlin:20261218T220000
 SUMMARY:Ass-Dur
 LOCATION:Bürgerhaus
-DESCRIPTION:Süßer die Brüder nie klingen - Die neue Weihnachtsshow\nMus
- ik-Show\, Comedy\, Spektakel und Familienfeier in einem\n20:00 Uhr\, Bür
- gerhaus
+DESCRIPTION:[Kabarett & Comedy]\nSüßer die Brüder nie klingen - Die neu
+ e Weihnachtsshow\nMusik-Show\, Comedy\, Spektakel und Familienfeier in ei
+ nem\n20:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/ass-du
  r-weihnachtsshow-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:6af786676858fb43fc76079b@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20261231T203000
 DTEND;TZID=Europe/Berlin:20261231T223000
 SUMMARY:▼⭐️5o Silvestersause
 LOCATION:Bürgerhaus
-DESCRIPTION:Feiern Sie mit uns den Startschuss ins 50. Jubiläumsjahr der 
- Stadt Dreieich\nmit Boppin´ B und Celebration X\n20:30 Uhr\, Bürgerhaus
+DESCRIPTION:[Sonstige]\nFeiern Sie mit uns den Startschuss ins 50. Jubilä
+ umsjahr der Stadt Dreieich\nmit Boppin´ B und Celebration X\n20:30 Uhr\,
+  Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/silves
  tersause
 END:VEVENT
 BEGIN:VEVENT
 UID:0384b323267fbb8d839e6cbf@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270113T200000
 DTEND;TZID=Europe/Berlin:20270113T220000
 SUMMARY:Der Wal
 LOCATION:Bürgerhaus
-DESCRIPTION:EURO-Studio Landgraf\nEin berührend schmerzliches\, aufwühle
- ndes und ebenso humorvolles Stück\n20:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Schauspiel / Theater / Musiktheater]\nEURO-Studio Landgraf\nE
+ in berührend schmerzliches\, aufwühlendes und ebenso humorvolles Stück
+ \n20:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/der-wa
  l
 END:VEVENT
 BEGIN:VEVENT
 UID:25a18de4dad878b31530757c@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270114T200000
 DTEND;TZID=Europe/Berlin:20270114T220000
 SUMMARY:Uli Boettcher
 LOCATION:Bürgerhaus
-DESCRIPTION:Ü60 - Das Leben rächt sich\nAlle zehn Jahre nimmt sich der K
- abarettist Zeit\, auf die sich verändernde Welt zu schauen.\n20:00 Uhr\,
-  Bürgerhaus
+DESCRIPTION:[Kabarett & Comedy]\nÜ60 - Das Leben rächt sich\nAlle zehn J
+ ahre nimmt sich der Kabarettist Zeit\, auf die sich verändernde Welt zu 
+ schauen.\n20:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/uli-bo
  ettcher-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:6cdd6909bf19c2312fc87e7b@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270119T200000
 DTEND;TZID=Europe/Berlin:20270119T220000
 SUMMARY:Elina Duni & Rob Luft
 LOCATION:Bürgerhaus
-DESCRIPTION:Reaching for the Moon\nDie schweizerisch-albanische Sängerin 
- und der britische Gitarrist präsentieren ihr drittes musikalisches Proje
- kt\n20:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Andere Töne]\nReaching for the Moon\nDie schweizerisch-alban
+ ische Sängerin und der britische Gitarrist präsentieren ihr drittes mus
+ ikalisches Projekt\n20:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/elina-
  duni-rob-luft
 END:VEVENT
 BEGIN:VEVENT
 UID:54322a9c42c1e7b66540af86@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270127T193000
 DTEND;TZID=Europe/Berlin:20270127T213000
 SUMMARY:Jo van Nelsen – Grammophonlesung
 LOCATION:Galerieraum der Stadtbücherei Dreieich-Sprendlingen
-DESCRIPTION:„Du hast ja eine Träne im Knopfloch!“ Die Friedrich-Holla
- ender-Story\nEine Erinnerung an einen einmaligen kreativen Kopf der deuts
- chen Unterhaltungskultur\n19:30 Uhr\, Galerieraum der Stadtbücherei Drei
- eich-Sprendlingen
+DESCRIPTION:[Lesungen]\n„Du hast ja eine Träne im Knopfloch!“ Die Fri
+ edrich-Hollaender-Story\nEine Erinnerung an einen einmaligen kreativen Ko
+ pf der deutschen Unterhaltungskultur\n19:30 Uhr\, Galerieraum der Stadtb
+ ücherei Dreieich-Sprendlingen
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/jo-van
  -nelsen-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:d10781e56adc593eec454915@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270212T200000
 DTEND;TZID=Europe/Berlin:20270212T220000
 SUMMARY:Textbomben
 LOCATION:Bürgerhaus
-DESCRIPTION:mit Kirsten Fuchs\, Susanne M. Riedel und Ella Carina Werner\n
- Ehrliche\, wilde und sehr komische Geschichten über Alltagskollisionen\n
- 20:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Kabarett & Comedy]\nmit Kirsten Fuchs\, Susanne M. Riedel und
+  Ella Carina Werner\nEhrliche\, wilde und sehr komische Geschichten über
+  Alltagskollisionen\n20:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/textbo
  mben-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:2c5b254ad7330b84c602d65f@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270216T200000
 DTEND;TZID=Europe/Berlin:20270216T220000
 SUMMARY:Zum Sterben schön
 LOCATION:Bürgerhaus
-DESCRIPTION:von und mit Gilla Cremer\nEin Theaterabend\, der mit Witz und 
- Tiefe die letzten Dinge des Lebens verhandelt\n20:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Schauspiel / Theater / Musiktheater]\nvon und mit Gilla Creme
+ r\nEin Theaterabend\, der mit Witz und Tiefe die letzten Dinge des Lebens
+  verhandelt\n20:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/zum-st
  erben-schoen
 END:VEVENT
 BEGIN:VEVENT
 UID:3fd4d791f7ab23be10314d8a@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270217T160000
 DTEND;TZID=Europe/Berlin:20270217T180000
 SUMMARY:Bei Vollmond spricht man nicht
 LOCATION:Bürgerhaus
-DESCRIPTION:Theater Zitadelle Puppet Company\nEine aufregende Reise durch 
- ein Märchenland\n16:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Theater für Kinder]\nTheater Zitadelle Puppet Company\nEine 
+ aufregende Reise durch ein Märchenland\n16:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/bei-vo
  llmond-spricht-man-nicht
 END:VEVENT
 BEGIN:VEVENT
 UID:45537fea70cdfba5d3a6b7c3@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270218T100000
 DTEND;TZID=Europe/Berlin:20270218T120000
 SUMMARY:Bei Vollmond spricht man nicht
 LOCATION:Bürgerhaus
-DESCRIPTION:Theater Zitadelle Puppet Company\nEine aufregende Reise durch 
- ein Märchenland\n10:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Schulen und Kitas]\nTheater Zitadelle Puppet Company\nEine au
+ fregende Reise durch ein Märchenland\n10:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/bei-vo
  llmond-spricht-man-nicht-kitaschule
 END:VEVENT
 BEGIN:VEVENT
 UID:5c154e08033f80c53c3a74fa@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270219T200000
 DTEND;TZID=Europe/Berlin:20270219T220000
 SUMMARY:Andy Ost
 LOCATION:Bürgerhaus
-DESCRIPTION:Zwischen Wahnsinn und Wahrheit\nEin Bühnenprogramm\, das sich
-  anfühlt wie ein Konzert.\n20:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Kabarett & Comedy]\nZwischen Wahnsinn und Wahrheit\nEin Bühn
+ enprogramm\, das sich anfühlt wie ein Konzert.\n20:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/andy-o
  st-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:8e0f4ef98677001a0f102eda@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270223T200000
 DTEND;TZID=Europe/Berlin:20270223T220000
 SUMMARY:Bodo Wartke
 LOCATION:Bürgerhaus
-DESCRIPTION:Was\, wenn doch? Zum letzten Mal!\nKlavierkabarett in Reimkult
- ur\n20:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Kabarett & Comedy]\nWas\, wenn doch? Zum letzten Mal!\nKlavie
+ rkabarett in Reimkultur\n20:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/bodo-w
  artke-was-wenn-doch-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:0d8be972471c5417dac3bd13@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270303T100000
 DTEND;TZID=Europe/Berlin:20270303T120000
 SUMMARY:▼ 🎭Starke Stücke: The Baby Tyler Show
 LOCATION:Bürgerhaus
-DESCRIPTION:Compagnie SNAFU\nEine Puppenshow für alle ab 5 Jahren\n10:00 
- Uhr\, Bürgerhaus
+DESCRIPTION:[Schulen und Kitas]\nCompagnie SNAFU\nEine Puppenshow für all
+ e ab 5 Jahren\n10:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/the-ba
  by-tyler-show-schulekita
 END:VEVENT
 BEGIN:VEVENT
 UID:818cf0a05167237fd3397d8f@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270303T160000
 DTEND;TZID=Europe/Berlin:20270303T180000
 SUMMARY:▼ 🎭Starke Stücke: The Baby Tyler Show
 LOCATION:Bürgerhaus
-DESCRIPTION:Compagnie SNAFU\nEine Puppenshow für alle ab 5 Jahren\n16:00 
- Uhr\, Bürgerhaus
+DESCRIPTION:[Theater für Kinder]\nCompagnie SNAFU\nEine Puppenshow für a
+ lle ab 5 Jahren\n16:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/the-ba
  by-tyler-show
 END:VEVENT
 BEGIN:VEVENT
 UID:93133ce745901408b4396221@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270304T100000
 DTEND;TZID=Europe/Berlin:20270304T120000
 SUMMARY:▼ 🎭Starke Stücke: LiCHT
 LOCATION:Bürgerhaus
-DESCRIPTION:Dadodans (NL)\nEine Tänzerin und eine Luftakrobatin spielen m
- it Reflexionen\, Farben und Perspektiven.\n10:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Schulen und Kitas]\nDadodans (NL)\nEine Tänzerin und eine Lu
+ ftakrobatin spielen mit Reflexionen\, Farben und Perspektiven.\n10:00 Uhr
+ \, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/licht-
  2026-10-uhr
 END:VEVENT
 BEGIN:VEVENT
 UID:24f0fc1c6477da1702d00c00@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270304T160000
 DTEND;TZID=Europe/Berlin:20270304T180000
 SUMMARY:▼ 🎭Starke Stücke: LiCHT
 LOCATION:Bürgerhaus
-DESCRIPTION:Dadodans (NL)\nEine Tänzerin und eine Luftakrobatin spielen m
- it Reflexionen\, Farben und Perspektiven.\n16:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Theater für Kinder]\nDadodans (NL)\nEine Tänzerin und eine 
+ Luftakrobatin spielen mit Reflexionen\, Farben und Perspektiven.\n16:00 U
+ hr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/licht-
  2026-16-uhr
 END:VEVENT
 BEGIN:VEVENT
 UID:fd141857785b2574e0af56b8@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270306T200000
 DTEND;TZID=Europe/Berlin:20270306T220000
 SUMMARY:Florian Schroeder
 LOCATION:Bürgerhaus
-DESCRIPTION:Endlich glücklich\nEine Show für alle und jeden\n20:00 Uhr\,
-  Bürgerhaus
+DESCRIPTION:[Kabarett & Comedy]\nEndlich glücklich\nEine Show für alle u
+ nd jeden\n20:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/floria
  n-schroeder-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:0c501fb33b831e9596252be9@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270310T193000
 DTEND;TZID=Europe/Berlin:20270310T213000
 SUMMARY:Chile - Von der Atacamawüste in die Antarktis
 LOCATION:Bürgerhaus
-DESCRIPTION:Heiko Beyer\nEin endloser Road-Trip durch völlig unterschiedl
- iche Welten\n19:30 Uhr\, Bürgerhaus
+DESCRIPTION:[Multivisionen und Live-Reportagen]\nHeiko Beyer\nEin endloser
+  Road-Trip durch völlig unterschiedliche Welten\n19:30 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/chile-
  2
 END:VEVENT
 BEGIN:VEVENT
 UID:3708163bbfa410f2ed5b35bf@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270311T193000
 DTEND;TZID=Europe/Berlin:20270311T213000
 SUMMARY:Uli Aechtner
 LOCATION:Galerieraum der Stadtbücherei Dreieich-Sprendlingen
-DESCRIPTION:Poyais. Ein Land\, das es nie gab\nDer perfideste Schwindel de
- s 19. Jahrhunderts: der legendäre Poyais-Betrug erstmals in einem packen
- den Roman erzählt\n19:30 Uhr\, Galerieraum der Stadtbücherei Dreieich-S
- prendlingen
+DESCRIPTION:[Lesungen]\nPoyais. Ein Land\, das es nie gab\nDer perfideste 
+ Schwindel des 19. Jahrhunderts: der legendäre Poyais-Betrug erstmals in 
+ einem packenden Roman erzählt\n19:30 Uhr\, Galerieraum der Stadtbüchere
+ i Dreieich-Sprendlingen
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/uli-ae
  chtner
 END:VEVENT
 BEGIN:VEVENT
 UID:ea83ecab5903290f84f499e5@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270316T200000
 DTEND;TZID=Europe/Berlin:20270316T220000
 SUMMARY:Irish Spring
 LOCATION:Bürgerhaus
-DESCRIPTION:Festival of Irish Folk Music\nmit dem Duo Cailíní\, den Band
- s Tulsk und Daimh\n20:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Andere Töne]\nFestival of Irish Folk Music\nmit dem Duo Cail
+ íní\, den Bands Tulsk und Daimh\n20:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/irish-
  spring-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:b0dc1f9eb58a0a32c93424b7@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270318T200000
 DTEND;TZID=Europe/Berlin:20270318T220000
 SUMMARY:Miss Allie
 LOCATION:Bürgerhaus
-DESCRIPTION:Paradiesvogel Tour\nModernes Liedermaching\, charmanter Humor 
- und scharfsinnige Sozialkritik\n20:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Konzerte]\nParadiesvogel Tour\nModernes Liedermaching\, charm
+ anter Humor und scharfsinnige Sozialkritik\n20:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/miss-a
  llie-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:0d79ca3f08d6d69d49fbbfd9@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270324T200000
 DTEND;TZID=Europe/Berlin:20270324T220000
 SUMMARY:Archie Clapp
 LOCATION:Bürgerhaus
-DESCRIPTION:200 Gags am Stück\nIm 5. Solo-Programm trifft Best-of-Materia
- l auf Neues\n20:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Kabarett & Comedy]\n200 Gags am Stück\nIm 5. Solo-Programm t
+ rifft Best-of-Material auf Neues\n20:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/archie
  -clapp-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:e8877932b3edb9d0a35f4b9d@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270406T200000
 DTEND;TZID=Europe/Berlin:20270406T220000
 SUMMARY:Adlerherzen
@@ -558,7 +569,7 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/adlerh
 END:VEVENT
 BEGIN:VEVENT
 UID:4577c6b063cbb8088efe5ba5@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270407T200000
 DTEND;TZID=Europe/Berlin:20270407T220000
 SUMMARY:Adlerherzen
@@ -572,225 +583,231 @@ URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/adlerh
 END:VEVENT
 BEGIN:VEVENT
 UID:e95b2feb61cbf75fe1369d7d@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270409T200000
 DTEND;TZID=Europe/Berlin:20270409T220000
 SUMMARY:Lars Reichow
 LOCATION:Bürgerhaus
-DESCRIPTION:Boomerland\nEin Fest der künstlerischen Freiheit - nur für D
- emokraten!\n20:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Kabarett & Comedy]\nBoomerland\nEin Fest der künstlerischen 
+ Freiheit - nur für Demokraten!\n20:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/lars-r
  eichow-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:75565ec60043f51ab31b3e76@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270410T190000
 DTEND;TZID=Europe/Berlin:20270410T210000
 SUMMARY:Die drei ??? - Signale aus dem Jenseits
 LOCATION:Bürgerhaus
-DESCRIPTION:Altonaer Theater\nBasierend auf einer Geschichte von André Mi
- nninger\n19:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Schauspiel / Theater / Musiktheater]\nAltonaer Theater\nBasie
+ rend auf einer Geschichte von André Minninger\n19:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/die-dr
  ei-fragezeichen-signale-aus-dem-jenseits
 END:VEVENT
 BEGIN:VEVENT
 UID:a3a9cf03c0f644154e5f7ece@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270413T160000
 DTEND;TZID=Europe/Berlin:20270413T180000
 SUMMARY:Der Grüffelo
 LOCATION:Bürgerhaus
-DESCRIPTION:Theater Karo Acht\nfrei nach dem Bilderbuchklassiker von Julia
-  Donaldson und Axel Scheffler\n16:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Theater für Kinder]\nTheater Karo Acht\nfrei nach dem Bilder
+ buchklassiker von Julia Donaldson und Axel Scheffler\n16:00 Uhr\, Bürger
+ haus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/der-gr
  ueffelo-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:8bdecfafd11c4b99797a67cb@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270414T090000
 DTEND;TZID=Europe/Berlin:20270414T110000
 SUMMARY:Der Grüffelo
 LOCATION:Bürgerhaus
-DESCRIPTION:Theater Karo Acht\nfrei nach dem Bilderbuchklassiker von Julia
-  Donaldson und Axel Scheffler\n09:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Schulen und Kitas]\nTheater Karo Acht\nfrei nach dem Bilderbu
+ chklassiker von Julia Donaldson und Axel Scheffler\n09:00 Uhr\, Bürgerha
+ us
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/der-gr
  ueffelo-2027-kitaschule
 END:VEVENT
 BEGIN:VEVENT
 UID:d3ac18ebc213b86e81cb5b8d@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270414T110000
 DTEND;TZID=Europe/Berlin:20270414T130000
 SUMMARY:Der Grüffelo
 LOCATION:Bürgerhaus
-DESCRIPTION:Theater Karo Acht\nfrei nach dem Bilderbuchklassiker von Julia
-  Donaldson und Axel Scheffler\n11:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Schulen und Kitas]\nTheater Karo Acht\nfrei nach dem Bilderbu
+ chklassiker von Julia Donaldson und Axel Scheffler\n11:00 Uhr\, Bürgerha
+ us
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/der-gr
  ueffelo-schule-kita-11-uhr
 END:VEVENT
 BEGIN:VEVENT
 UID:1a7baac7d5ef004cc98d15e2@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270416T200000
 DTEND;TZID=Europe/Berlin:20270416T220000
 SUMMARY:Jess Jochimsen
 LOCATION:Bürgerhaus
-DESCRIPTION:Von allen guten Geistern\nKabarett. Songs. Dias.\n20:00 Uhr\, 
- Bürgerhaus
+DESCRIPTION:[Kabarett & Comedy]\nVon allen guten Geistern\nKabarett. Songs
+ . Dias.\n20:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/jess-j
  ochimsen-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:2e9be6c23e915972970c164a@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270417T200000
 DTEND;TZID=Europe/Berlin:20270417T220000
 SUMMARY:Akkordeonale
 LOCATION:Bürgerhaus
-DESCRIPTION:Internationales Akkordeon-Festival\nEin magisches Zusammenspie
- l unterschiedlicher musikalischer Handschriften\, Kulturen und Charaktere
- \n20:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Konzerte]\nInternationales Akkordeon-Festival\nEin magisches 
+ Zusammenspiel unterschiedlicher musikalischer Handschriften\, Kulturen un
+ d Charaktere\n20:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/akkord
  eonale-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:7fab822dba2e31e4eb2df6a6@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270420T193000
 DTEND;TZID=Europe/Berlin:20270420T213000
 SUMMARY:Kanada & Alaska
 LOCATION:Bürgerhaus
-DESCRIPTION:Pascal Violo\nWilde Natur\, Freiheit und Abenteuer\, Begegnung
- en mit Bären\, Elchen\, Walen und Nordlichtern\, die am Himmel tanzen 
- – das ist der hohe Norden des amerikanischen Kontinents.\n19:30 Uhr\, B
- ürgerhaus
+DESCRIPTION:[Multivisionen und Live-Reportagen]\nPascal Violo\nWilde Natur
+ \, Freiheit und Abenteuer\, Begegnungen mit Bären\, Elchen\, Walen und N
+ ordlichtern\, die am Himmel tanzen – das ist der hohe Norden des amerik
+ anischen Kontinents.\n19:30 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/kanada
  -alaska
 END:VEVENT
 BEGIN:VEVENT
 UID:c421f5be780317891bb55910@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270423T193000
 DTEND;TZID=Europe/Berlin:20270423T213000
 SUMMARY:Wladimir Kaminer
 LOCATION:Bürgerhaus
-DESCRIPTION:Müttertage\nDer Bestseller-Autor liest aus seinem neuen Buch\
- n19:30 Uhr\, Bürgerhaus
+DESCRIPTION:[Lesungen]\nMüttertage\nDer Bestseller-Autor liest aus seinem
+  neuen Buch\n19:30 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/wladim
  ir-kaminer
 END:VEVENT
 BEGIN:VEVENT
 UID:80d90cb48c8ca29cc8beaa9f@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270424T200000
 DTEND;TZID=Europe/Berlin:20270424T220000
 SUMMARY:Cláudia Sophia
 LOCATION:Bürgerhaus
-DESCRIPTION:Ihre Songs\, die immer noch in der kapeverdischen Tradition ve
- rwurzelt sind\, umfassen Einflüsse aus Brasilien\, Afrika und der westli
- chen Popmusik.\n20:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Andere Töne]\nIhre Songs\, die immer noch in der kapeverdisc
+ hen Tradition verwurzelt sind\, umfassen Einflüsse aus Brasilien\, Afrik
+ a und der westlichen Popmusik.\n20:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/claudi
  a-sophia
 END:VEVENT
 BEGIN:VEVENT
 UID:a048a2d78309d20f78257a8d@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270505T200000
 DTEND;TZID=Europe/Berlin:20270505T220000
 SUMMARY:Teresa Reichl
 LOCATION:Bürgerhaus
-DESCRIPTION:Grober Unfug\n"Feministisches Kabarett der kurzweiligen Art"\n
- 20:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Kabarett & Comedy]\nGrober Unfug\n"Feministisches Kabarett de
+ r kurzweiligen Art"\n20:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/teresa
  -reichl-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:80817bca3a135cccd44ecab3@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270511T200000
 DTEND;TZID=Europe/Berlin:20270511T220000
 SUMMARY:Kardinalfehler
 LOCATION:Bürgerhaus
-DESCRIPTION:EURO-Studio Landgraf\nEine Komödie in zwei Akten von Alistair
-  Beaton und Dietmar Jacobs\n20:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Schauspiel / Theater / Musiktheater]\nEURO-Studio Landgraf\nE
+ ine Komödie in zwei Akten von Alistair Beaton und Dietmar Jacobs\n20:00 
+ Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/kardin
  alfehler
 END:VEVENT
 BEGIN:VEVENT
 UID:0639924c630e37dbdd1f04de@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270513T200000
 DTEND;TZID=Europe/Berlin:20270513T220000
 SUMMARY:Johnny & The Yooahoos
 LOCATION:Bürgerhaus
-DESCRIPTION:Seit 2018 sorgen Johnny & the Yooahoos für frischen Wind in d
- er europäischen Bluegrass- und Folk-Szene\n20:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Andere Töne]\nSeit 2018 sorgen Johnny & the Yooahoos für fr
+ ischen Wind in der europäischen Bluegrass- und Folk-Szene\n20:00 Uhr\, B
+ ürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/johnny
  -the-yooahoos
 END:VEVENT
 BEGIN:VEVENT
 UID:6c30b46f6befc6a41b1b9601@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270520T200000
 DTEND;TZID=Europe/Berlin:20270520T220000
 SUMMARY:Work? Life? What?
 LOCATION:Bürgerhaus
-DESCRIPTION:Michael Frowin\, Daniel Heinz und Mado Beatbox\nStand-up.Kabar
- ett. Beatbox.\n20:00 Uhr\, Bürgerhaus
+DESCRIPTION:[Kabarett & Comedy]\nMichael Frowin\, Daniel Heinz und Mado Be
+ atbox\nStand-up.Kabarett. Beatbox.\n20:00 Uhr\, Bürgerhaus
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/work-l
  ife-what
 END:VEVENT
 BEGIN:VEVENT
 UID:37ed8ff2f3cf85e64c026c41@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270601T193000
 DTEND;TZID=Europe/Berlin:20270601T213000
 SUMMARY:Eric Pfeil
 LOCATION:Galerieraum der Stadtbücherei Dreieich-Sprendlingen
-DESCRIPTION:Hotel Celentano\nEin erzählter Reiseführer durch das Land de
- r dolce vita - Ein Buch voller Orte\, von denen noch niemand erzählt hat
- \n19:30 Uhr\, Galerieraum der Stadtbücherei Dreieich-Sprendlingen
+DESCRIPTION:[Lesungen]\nHotel Celentano\nEin erzählter Reiseführer durch
+  das Land der dolce vita - Ein Buch voller Orte\, von denen noch niemand 
+ erzählt hat\n19:30 Uhr\, Galerieraum der Stadtbücherei Dreieich-Sprendl
+ ingen
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/eric-p
  feil
 END:VEVENT
 BEGIN:VEVENT
 UID:cf1f31fa39b8a78569d7c5c1@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270729T200000
 DTEND;TZID=Europe/Berlin:20270729T220000
 SUMMARY:Frankenstein
 LOCATION:Burg Hayn
-DESCRIPTION:NN Theater Köln\nDer Klassiker von Mary Shelley in einer Insz
- enierung vom NN Theater Köln bei den Burgfestspielen Dreieichenhain 2027
- .\n20:00 Uhr\, Burg Hayn
+DESCRIPTION:[Schauspiel / Theater / Musiktheater]\nNN Theater Köln\nDer K
+ lassiker von Mary Shelley in einer Inszenierung vom NN Theater Köln bei 
+ den Burgfestspielen Dreieichenhain 2027.\n20:00 Uhr\, Burg Hayn
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/franke
  nstein-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:8ddd3b83c651b2612a6c556a@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270903T180000
 DTEND;TZID=Europe/Berlin:20270903T200000
 SUMMARY:▼⭐️5o Elementaro
 LOCATION:Parkschwimmbad Dreieich
-DESCRIPTION:100 Jahre Parkschwimmbad Dreieich\nEine beeindruckende Wasser-
- \, Licht-\, Feuer- und Lasershow\n18:00 Uhr\, Parkschwimmbad Dreieich\nVe
- ranstalter: Stadt-Holding Dreieich GmbH
+DESCRIPTION:[Sonstige]\n100 Jahre Parkschwimmbad Dreieich\nEine beeindruck
+ ende Wasser-\, Licht-\, Feuer- und Lasershow\n18:00 Uhr\, Parkschwimmbad 
+ Dreieich\nVeranstalter: Stadt-Holding Dreieich GmbH
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/elemen
  taro-2027-09-03
 END:VEVENT
 BEGIN:VEVENT
 UID:5e60de7a9d960558a1a44793@buergerhaeuser-dreieich
-DTSTAMP:20261025T042846Z
+DTSTAMP:20261025T093056Z
 DTSTART;TZID=Europe/Berlin:20270904T180000
 DTEND;TZID=Europe/Berlin:20270904T200000
 SUMMARY:▼⭐️5o Elementaro
 LOCATION:Parkschwimmbad Dreieich
-DESCRIPTION:100 Jahre Parkschwimmbad Dreieich\nEine beeindruckende Wasser-
- \, Licht-\, Feuer- und Lasershow\n18:00 Uhr\, Parkschwimmbad Dreieich\nVe
- ranstalter: Stadt-Holding Dreieich GmbH
+DESCRIPTION:[Sonstige]\n100 Jahre Parkschwimmbad Dreieich\nEine beeindruck
+ ende Wasser-\, Licht-\, Feuer- und Lasershow\n18:00 Uhr\, Parkschwimmbad 
+ Dreieich\nVeranstalter: Stadt-Holding Dreieich GmbH
 URL:https://www.buergerhaeuser-dreieich.de/programm/veranstaltungen/elemen
  taro-2027-09-04
 END:VEVENT
